@@ -1,9 +1,9 @@
 {
 "song":"false",
 "dialog":"True",
-"title":"From Admin",
-"text":"Hello Users!, Happy new year! Please like and subscribe",
-"button":"Like",
-"url":"https://youtu.be/DyDQV24Co5M?si=G9IiUOmIdZc0m_jV",
-"key":"c"
+"title":"Tutorial",
+"text":"Hello Users!, Happy new year! Watch the tutorial video about upgrading skin",
+"button":"Watch",
+"url":"https://youtube.com/shorts/bKNsblPmKz8?si=Ukj2Hkzitk2fPfz9",
+"key":"d"
 }
